@@ -10,3 +10,7 @@ end
 
 def assign_room(array)
 end 
+
+
+# arr.map { |element| element.capitalize }
+# # => ["Tokyo", "London", "Rio"]
