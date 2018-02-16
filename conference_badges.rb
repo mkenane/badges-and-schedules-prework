@@ -7,5 +7,6 @@ def batch_badge_creator(array)
 end 
 
 def assign_room(array)
+  array.map {|name| "Hello, my name is #{name}."}
 end 
 
