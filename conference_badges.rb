@@ -27,4 +27,5 @@ rooms = assign_rooms(array)
   rooms.each do |name|
   puts "#{name}"
   end 
+  
 end 
